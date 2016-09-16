@@ -239,6 +239,7 @@
         DoWhileStatement: ['body', 'test'],
         EmptyStatement: [],
         ExportAllDeclaration: ['source'],
+        ExperimentalSpreadProperty: ['argument'],
         ExportDefaultDeclaration: ['declaration'],
         ExportNamedDeclaration: ['declaration', 'specifiers', 'source'],
         ExportSpecifier: ['exported', 'local'],
